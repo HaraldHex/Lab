@@ -11,4 +11,4 @@ I have actively developed my cybersecurity skills through hands-on labs on TryHa
 - 🔍 Focused on practical, real-world attack and defense scenarios
 
 ### 🔗 Profile
-https://tryhackme.com/p/DITTBRUKERNAVN
+https://tryhackme.com/p/HaraldHex
